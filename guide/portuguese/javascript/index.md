@@ -33,3 +33,7 @@ O WebKit (exceto o projeto Chromium) implementa o mecanismo JavaScriptCore.
 ## Frameworks JavaScript
 
 Os Frameworks JavaScript usados ​​com mais frequência são React JS, Angular JS, Criar JS, jQuery, nodeJS etc. Para detalhes, siga este [link](https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/) .
+
+## Desenvolvimento 2D e 3D em Javascript
+
+É possível desenvolver mecanismos de animação 2D e 3D, nomeadamente: PixiJS [link](https://www.devmedia.com.br/desenvolvimento-de-jogos-web-com-pixi-js/34216)
